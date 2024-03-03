@@ -5,6 +5,7 @@
 #include "BaseBreak.h"
 
 namespace car {
-    namespace components {
-    } // components
-}//car
+namespace components {
+// test
+}  // namespace components
+}  // namespace car
